@@ -1,0 +1,1451 @@
+# - title: ""
+#   authors: []
+#   creation_date: ""
+#   creator: ""
+#   description:  ""
+#   form: ""
+#   language: ""
+#   doc_url: ""
+#   doc_archive_url: ""
+#   info_url: ""
+#   info_url_archive: ""
+#   local_path:     ""
+#   organization: ""
+#   publisher: ""
+#   type: []
+#   year: ""
+
+- form: application/pdf
+  organization: Digital Shadows
+  title: "A 5-step Opsec Program For Defenders"
+  hash: 9aeb9eb22a4396e23f2dec20a01ae1ee0e6ac75878f6e8f340662a67eb4b315e
+  creation_date: 2017
+  year:  2017
+  local_path: /files/9aeb9eb22a4396e23f2dec20a01ae1ee0e6ac75878f6e8f340662a67eb4b315e.pdf
+  type: [opsec]
+
+
+- form: application/pdf
+  organization: Usaid
+  title: "The Acceptance Toolkit"
+  hash: 21136c074e38ca0aee6a0ecebc6d02dc2c910a3be56010a82f7ff06f39381df0
+  creation_date: 2011
+  year:  2011
+  local_path: /files/21136c074e38ca0aee6a0ecebc6d02dc2c910a3be56010a82f7ff06f39381df0.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Mitre
+  title: "Adversarial Tactics, Techniques And Common Knowledge (att&ck™)"
+  hash: 8c71298a1b726d014ceaf9471b9bc2ca2a972178d825984278eac5a93e073a38
+  creation_date: 2015
+  year:  2015
+  local_path: /files/8c71298a1b726d014ceaf9471b9bc2ca2a972178d825984278eac5a93e073a38.pdf
+  type: [incident_management]
+
+
+- form: application/pdf
+  organization: Microsoft
+  title: "A Guide To Data Governance For Privacy, Confidentiality, And Compliance Part 5: Moving To Cloud Computing"
+  hash: fddd53e49c3fb273dcb92aab4a8624070819c37b043867ffa46098105897b09c
+  creation_date: 2010
+  year:  2010
+  local_path: /files/fddd53e49c3fb273dcb92aab4a8624070819c37b043867ffa46098105897b09c.pdf
+  type: [privacy,risk_management]
+
+
+- form: application/pdf
+  organization: Accounting Professional & Ethical Standards Board Limited
+  title: "Apes 325 Risk Management For Firms"
+  hash: 754a75d14542d08fd0cb8c892f74616497ae9490980b76e39a2f010bc37c47a8
+  creation_date: 2011
+  year:  2011
+  local_path: /files/754a75d14542d08fd0cb8c892f74616497ae9490980b76e39a2f010bc37c47a8.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Price Waterhouse Coopers
+  title: "A Practical Guide To Risk Assessment How Principles-based Risk Assessment Enables Organizations To Take The Right Risks"
+  hash: 0b6e69d047fa4773666e2170082e2d6492fd4c8dc6add815877f354e8c69c4f0
+  creation_date: 2008
+  year:  2008
+  local_path: /files/0b6e69d047fa4773666e2170082e2d6492fd4c8dc6add815877f354e8c69c4f0.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Centre For Information Policy Leadership
+  title: "A Risk-based Approach To Privacy: Improving Effectiveness In Practice"
+  hash: 3be1566b70b1a40cb38919d35a6ffdba5da3bccf84bc03f2334c84798db72aab
+  creation_date: 2014
+  year:  2014
+  local_path: /files/3be1566b70b1a40cb38919d35a6ffdba5da3bccf84bc03f2334c84798db72aab.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Standards Australia/standards New Zealand
+  title: "As/nzs Iso 31000:2009 Risk Management— Principles And Guidelines"
+  hash: 83527624c023abe0efdc131f944a45d740a1c99efb174a04c284aa30a13245ef
+  creation_date: 2009
+  year:  2009
+  local_path: /files/83527624c023abe0efdc131f944a45d740a1c99efb174a04c284aa30a13245ef.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Caucus Of Development Ngo Networks (code-ngo)
+  title: "Assessing The Philippine Ngo Environment: Regulation, Risks And Renewal Highlights Of The Philippine Npo Sector Report"
+  hash: 05ab363cfbaae1ec05fcbb313e04fe5483560ba4029ed88c78f98afcfeb91e86
+  creation_date: 2009
+  year:  2009
+  local_path: /files/05ab363cfbaae1ec05fcbb313e04fe5483560ba4029ed88c78f98afcfeb91e86.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: The Association Of Insurance And Risk Managers
+  title: "A Structured Approach To Enterprise Risk Management (erm) And The Requirements Of Iso 31000"
+  hash: 57d16261643ea18e86784788cf559944d8ba6c43dbaf158cc9eb1025a18ba4e6
+  creation_date: 2010
+  year:  2010
+  local_path: /files/57d16261643ea18e86784788cf559944d8ba6c43dbaf158cc9eb1025a18ba4e6.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Lockheed Martin Corporation
+  title: "A Threat-driven Approach To Cyber Security Methodologies, Practices And Tools To Enable A Functionally Integrated Cyber Security Organization"
+  hash: 1d91d1f2f0691b384a167d3bc3455e0b28883858d0f9abe03fd503622776f939
+  creation_date:
+  year: "unknown"
+  local_path: /files/1d91d1f2f0691b384a167d3bc3455e0b28883858d0f9abe03fd503622776f939.pdf
+  type: [threat_modeling]
+
+
+- form: application/pdf
+  organization:
+  title: "A Threat Model Approach To Threats And Vulnerabilities In On-line Social Networks"
+  hash: 67c55ca7dfe1480a6489756658e23ce4216b587dc201588f7dcba757e95000f5
+  creation_date:
+    year: "unknown"
+  local_path: /files/67c55ca7dfe1480a6489756658e23ce4216b587dc201588f7dcba757e95000f5.pdf
+  type: [threat_modeling]
+
+
+- form: application/pdf
+  organization: Standards Australia/standards New Zealand
+  title: "Risk Management As/nzs 4360:2004"
+  hash: 42c00516c91fa56dce6f640fb32c22c17e9fafd31bc3fe80fd9d98a435e7e199
+  creation_date: 2004
+  year:  2004
+  local_path: /files/42c00516c91fa56dce6f640fb32c22c17e9fafd31bc3fe80fd9d98a435e7e199.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Cloud Security Alliance
+  title: "Best Practices For Mitigating Risks In Virtualized Environments"
+  hash: 981ac68cdeb5633b758e2c8bd879cd3027f5d94f8e8c819b2cb79493def57825
+  creation_date: 2015
+  year:  2015
+  local_path: /files/981ac68cdeb5633b758e2c8bd879cd3027f5d94f8e8c819b2cb79493def57825.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: The Financial Action Task Force (fatf)
+  title: "Best Practices Combating The Abuse Of Non-profit Organisations (recommendation 8)"
+  hash: a71594c56a5f8d0198b416767788af6274053a3d2ca23ca2dbaf8d3639788564
+  creation_date: 2015
+  year:  2015
+  local_path: /files/a71594c56a5f8d0198b416767788af6274053a3d2ca23ca2dbaf8d3639788564.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: 2016
+  title: "Blunting The Phishers Spear: A Risk-based Approach For Defining User Training And Awarding Administrative Privileges"
+  hash: 0f8e36df508d032bd034efb9405a85ad7cead3cef3224cb9b053353b174b2840
+  creation_date: 2016
+  year:  2016
+  local_path: /files/0f8e36df508d032bd034efb9405a85ad7cead3cef3224cb9b053353b174b2840.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: 2015
+  title: "ILLUSTRATIVE LIST OF OVERREGULATION OF NON-PROFIT ORGANIZATIONS"
+  hash: a043bc1c009a7e3a653421d241ccf0bf44f5db47ad7e0eee16753f07ead63556
+  creation_date: 2015
+  year:  2015
+  local_path: /files/a043bc1c009a7e3a653421d241ccf0bf44f5db47ad7e0eee16753f07ead63556.pdf
+  type: []
+
+
+- form: application/msword
+  organization: Centers For Disease Control And Prevention
+  title: "Centers For Disease Control And Prevention: Draft Risk Assessment Report"
+  hash: 65a8f7d90b41c49ed1d4b938dd04b28d2dacf1ac3c456af655a9a5a686a9f848
+  creation_date: 2007
+  year:  2007
+  local_path: /files/65a8f7d90b41c49ed1d4b938dd04b28d2dacf1ac3c456af655a9a5a686a9f848.doc
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Usaid
+  title: "Climate Risk Management At Usaid"
+  hash: b6bafa10a7d4680f8703fd1301e4c7a69392e412a64634734da841bec8e3a91c
+  creation_date: 2016
+  year:  2016
+  local_path: /files/b6bafa10a7d4680f8703fd1301e4c7a69392e412a64634734da841bec8e3a91c.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Usaid
+  title: "Climate Risk Management For Usaid Projects And Activities"
+  hash: 53a8f9022c7ad73a9c6d4c345952c96f9acb111ff29df83dc58ea0f281f53371
+  creation_date: 2016
+  year:  2016
+  local_path: /files/53a8f9022c7ad73a9c6d4c345952c96f9acb111ff29df83dc58ea0f281f53371.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: The Office Of The Comptroller Of The Currency
+  title: "Country Risk Management Version 1.0"
+  hash: e1a66044f6cb3845ce96595a52bf51590e6fb8867ccefb9630704be59d736045
+  creation_date: 2016
+  year:  2016
+  local_path: /files/e1a66044f6cb3845ce96595a52bf51590e6fb8867ccefb9630704be59d736045.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: 2011
+  title: "Concepts Of Security Threats, Challenges, Vulnerabilities And Risks"
+  hash: 8fd86458d3200dd229f81732f20546305896459a8d57996106703d68f984be48
+  creation_date: 2011
+  year:  2011
+  local_path: /files/8fd86458d3200dd229f81732f20546305896459a8d57996106703d68f984be48.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Department Of Health And Human Services
+  title: "Hhs Eplc Practices Guide – <opdiv> Contingency Plan (v1.0)"
+  hash: c0eacea3ebdf17de880a11959f7d455776381c1e2b1f5e729480e747f20af37c
+  creation_date:
+  year: "unknown"
+  local_path: /files/c0eacea3ebdf17de880a11959f7d455776381c1e2b1f5e729480e747f20af37c.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: 2016
+  title: "Computer Security Incident Response Plan Template – Short Version A Guide For Developing An Incident Response Plan And Step-by-step Instructions For Completing The Template"
+  hash: b58709e04c34022c6d4beb58ef19435c8bc1382f86ef21063de5b6d936f8f1ce
+  creation_date: 2016
+  year:  2016
+  local_path: /files/b58709e04c34022c6d4beb58ef19435c8bc1382f86ef21063de5b6d936f8f1ce.pdf
+  type: [incident_management]
+
+
+- form: application/pdf
+  organization: Asian Development Bank
+  title: "Engagement in Fragile and Conflict-Affected Situations - Customized Risk Management Framework"
+  hash: 454f2c84b598be1489544e3e79ce056738d06cbc9af0612f5b129f318e1d8ef7
+  creation_date: 2014
+  year:  2014
+  local_path: /files/454f2c84b598be1489544e3e79ce056738d06cbc9af0612f5b129f318e1d8ef7.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Risk Management Solutions, Inc.
+  title: "Managing Cyber Insurance Accumulation Risk"
+  hash: 5d21bacdbd562265414d118a6b6d34b082d0da772edf149a991dbb7a09ffb207
+  creation_date: 2016
+  year:  2016
+  local_path: /files/5d21bacdbd562265414d118a6b6d34b082d0da772edf149a991dbb7a09ffb207.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: European Union Agency For Network And Information Security
+  title: "Cyber Insurance: Recent Advances, Good Practices And Challenges"
+  hash: 83a6532fd51db1524af011e37256782dd4b9a933b032b2c1253114b1d885c092
+  creation_date: 2016
+  year:  2016
+  local_path: /files/83a6532fd51db1524af011e37256782dd4b9a933b032b2c1253114b1d885c092.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Mitre
+  title: "Cyber Prep 2.0: Motivating Organizational Cyber Strategies In Terms Of Threat Preparedness"
+  hash: 8a3b38a1112b10f09c799c67f4eca0f49e44c98e757145675680de5806ff0db0
+  creation_date: 2016
+  year:  2016
+  local_path: /files/8a3b38a1112b10f09c799c67f4eca0f49e44c98e757145675680de5806ff0db0.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Air Force Research Laboratory
+  title: "Design Considerations For A Cyber Incident Mission Impact Assessment (cimia) Process"
+  hash: 2bd5b66fc5c06476ce83d59a32f5a25157f9d954f4e7700129891c21fb1e8be3
+  creation_date:
+  year: "unknown"
+  local_path: /files/2bd5b66fc5c06476ce83d59a32f5a25157f9d954f4e7700129891c21fb1e8be3.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Usaid
+  title: "Developing A Risk Management Plan"
+  hash: 49a02c1440d3af9070a4d39aa9dbdc548bece002e5b7427ee5a36aa49782f697
+  creation_date: 2010
+  year:  2010
+  local_path: /files/49a02c1440d3af9070a4d39aa9dbdc548bece002e5b7427ee5a36aa49782f697.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Oecd
+  title: "Development Assistance And Approaches To Risk In Fragile And Conflict Affected States"
+  hash: b784faacaff08f5ac6a3f1e91d29d080e61a99771a02530c21e2e7cf52841702
+  creation_date:
+  year: "unknown"
+  local_path: /files/b784faacaff08f5ac6a3f1e91d29d080e61a99771a02530c21e2e7cf52841702.pdf
+  type: []
+
+
+- form: image/jpeg
+  organization:
+  title: "Digitall Securing Your Organization Is Like Preparing Your Office For A Fire"
+  hash: 9582377290332c0337ebfddc4c8253811625227fa5a99554338a04eecef51370
+  creation_date:
+    year: "unknown"
+  local_path: /files/9582377290332c0337ebfddc4c8253811625227fa5a99554338a04eecef51370.jpg
+  type: []
+
+
+- form: application/pdf
+  organization: National Institute Of Statistical Sciences
+  title: "Disclosure Risk Vs. Data Utility: The R-u Confidentiality Map"
+  hash: 4d62b689b457dc14b07c72637a77d13bd3185035a3bd3f855cd452f729a5ae7e
+  creation_date: 2001
+  year:  2001
+  local_path: /files/4d62b689b457dc14b07c72637a77d13bd3185035a3bd3f855cd452f729a5ae7e.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:
+  title: "Does It Pay To Be Cyber-insured"
+  hash: 1b8503a4e1b34de8d8c674a44b85093297a4ece0cd78f518078b3d473b50949d
+  creation_date: 2016
+  year:  2016
+  local_path: /files/1b8503a4e1b34de8d8c674a44b85093297a4ece0cd78f518078b3d473b50949d.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Australian Prudential Regulation Authority
+  title: "Draft Prudential Practice Guide Cpg 220 – Risk Management"
+  hash: de7aba400a77e1841d0c2f7faf8a112170c2ba5e00490a9a385b7593426385c7
+  creation_date: 2014
+  year:  2014
+  local_path: /files/de7aba400a77e1841d0c2f7faf8a112170c2ba5e00490a9a385b7593426385c7.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Committee Of Sponsoring Organizations Of The Treadway Commission
+  title: "Embracing Enterprise Risk Management: Practical Approaches For Getting Started"
+  hash: a83acc306c19839988d7b9c4b3bc486c9590e918ab24c7c7d45b8189520a10d1
+  creation_date: 2011
+  year:  2011
+  local_path: /files/a83acc306c19839988d7b9c4b3bc486c9590e918ab24c7c7d45b8189520a10d1.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Deposit Insurance Corporation Of Ontario
+  title: "Standards Of Sound Business And Financial Practices Enterprise Risk Management Application Guide"
+  hash: 73490760179907f3a2e9ce5ac110b6d42057c22f73af6ef9638e5f0e0a2baf83
+  creation_date: 2011
+  year:  2011
+  local_path: /files/73490760179907f3a2e9ce5ac110b6d42057c22f73af6ef9638e5f0e0a2baf83.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Enterprise Strategy Group
+  title: "The Pressing Need For Digital Risk Management"
+  hash: b32974ba176df64cfedf6ba27a50087983dc1005f5f2176568c0659bc6008a8b
+  creation_date: 2017
+  year:  2017
+  local_path: /files/b32974ba176df64cfedf6ba27a50087983dc1005f5f2176568c0659bc6008a8b.pdf
+  type: [risk_management]
+
+
+- form: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  organization: Forum On Education Abroad
+  title: "Establishing Risk Assessment And Mitigation Strategies To Prepare For Programs In Higher Risk Countries"
+  hash: db98789a75f64be4589c9af52f2f23437a4607ff0d5edc02b6e2d341d523ba97
+  creation_date: 2014
+  year:  2014
+  local_path: /files/db98789a75f64be4589c9af52f2f23437a4607ff0d5edc02b6e2d341d523ba97.docx
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:
+  title: "Evaluating Confidentiality Impact In Security Risk Scoring Models"
+  hash: 41fba25e26a9fbd5b8ebd799db5cc1827d09044c4d6c01cc28d3b90503847cd1
+  creation_date: 2016
+  year:  2016
+  local_path: /files/41fba25e26a9fbd5b8ebd799db5cc1827d09044c4d6c01cc28d3b90503847cd1.pdf
+  type: [risk_management,privacy]
+
+
+- form: application/pdf
+  organization: Greenacre Group
+  title: "Experiences Working With Npos And Governments On The Risk Assessment Process"
+  hash: 619da1dd694eddd1e11f9a29f49d0d8658f7f0ce5863895ed429723b6eb4e82e
+  creation_date:
+  year: "unknown"
+  local_path: /files/619da1dd694eddd1e11f9a29f49d0d8658f7f0ce5863895ed429723b6eb4e82e.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Accounting Professional & Ethical Standards Board (apesb)
+  title: "Apes 325 Risk Management For Firms A Guide For Members"
+  hash: 53e7d0c8d4df1694bf8483ebcd67d93a68ba6b20e5b298ab68cfdcf74a3267b5
+  creation_date:
+  year: "unknown"
+  local_path: /files/53e7d0c8d4df1694bf8483ebcd67d93a68ba6b20e5b298ab68cfdcf74a3267b5.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: The National Archives
+  title: "What Is An Information Asset Register?"
+  hash: 9d3fc46fe7d5baddec20f5355473820d76db48355876b735dc5a15be0b8ab53d
+  creation_date:
+  year: "unknown"
+  local_path: /files/9d3fc46fe7d5baddec20f5355473820d76db48355876b735dc5a15be0b8ab53d.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: The Financial Action Task Force (fatf)
+  title: "Risk Of Terrorist Abuse In Non-profit Organisations"
+  hash: 38e4ca76e606a41917e34e60cc22dcf9d3f5dfa6c35d68ccfd0b43ba0c11949e
+  creation_date: 2014
+  year:  2014
+  local_path: /files/38e4ca76e606a41917e34e60cc22dcf9d3f5dfa6c35d68ccfd0b43ba0c11949e.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Financial Action Task Force (fatf)
+  title: "GOOD PRACTICES IN APPLYING FiNANCIAL ACTION TASK FORCE STANDARDS"
+  hash: b7cbca50e70d8a344f59b9f9e84de179168e7a0621a167590dab3fb4e66bfbd1
+  creation_date: 2012
+  year:  2012
+  local_path: /files/b7cbca50e70d8a344f59b9f9e84de179168e7a0621a167590dab3fb4e66bfbd1.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Financial Action Task Force (fatf)
+  title: "Risk Assessment Scoping Paper The Risk Based Assessment Approach And Mutual Evaluations As The Cornerstone To Validating The Effectiveness Of Recommendation 8"
+  hash: d17a124b1659f01f82ef130c8be855867ea4a04ddc83828b6b360f4b9c119f08
+  creation_date: 2014
+  year:  2014
+  local_path: /files/d17a124b1659f01f82ef130c8be855867ea4a04ddc83828b6b360f4b9c119f08.pdf
+  type: []
+
+
+- form: application/pdf
+  organization:
+  title: "Formative User-centered Evaluation Of Security Modeling: Results From A Case Study"
+  hash: 4494be7eb8769528ca8dbd96af93ee9157cdce5c549f9435ac1c5430a23a321a
+  creation_date:
+    year: "unknown"
+  local_path: /files/4494be7eb8769528ca8dbd96af93ee9157cdce5c549f9435ac1c5430a23a321a.pdf
+  type: [threat_modeling]
+
+
+- form: application/pdf
+  organization: Security management initiative (smi).
+  title: "From security management to risk management Critical reflections on aid agency security management And the iso risk management guidelines"
+  hash: 30b9c5b77455c486601f68d29e5efc39b200b3bf195fdf491ee9f7de3f35ce28
+  creation_date: 2011
+  year:  2011
+  local_path: /files/30b9c5b77455c486601f68d29e5efc39b200b3bf195fdf491ee9f7de3f35ce28.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Humanitarian Practice Network At The Overseas Development Institute
+  title: "Operational Security Management In Violent Environments"
+  hash: 8e2acb4b14a595280531a4f523fb751695e9811c694d91e2aff29d6c2923f39c
+  creation_date: 2000
+  year:  2000
+  local_path: /files/8e2acb4b14a595280531a4f523fb751695e9811c694d91e2aff29d6c2923f39c.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Humanitarian Practice Network (hpn)
+  title: "Disaster Risk Reduction Mitigation And Preparedness In Development And Emergency Programming"
+  hash: 6286364c124e35e768551496fb690bdc5a83a609393f91da305cf8d9b40c300b
+  creation_date: 2004
+  year:  2004
+  local_path: /files/6286364c124e35e768551496fb690bdc5a83a609393f91da305cf8d9b40c300b.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Humanitarian Practice Network at the Overseas Development Institute
+  title: "Operational Security Management In Violent Environments"
+  hash: 21bbbd1fb3a9617f28167fdf44f16e2cc058657ef940771ca5e8f4c1580901d8
+  creation_date: 2010
+  year:  2010
+  local_path: /files/21bbbd1fb3a9617f28167fdf44f16e2cc058657ef940771ca5e8f4c1580901d8.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:  ECNL, EFC, HSC
+  title: "Regulation Of The Non-profit Sector GOVERNMENT DON'TS IN IMPLEMENTING THE FATF’s RECOMMENDATION 8"
+  hash: d32e46291d9822d3583fe4ef38e14dee671347e2b8695abd1ea8b69d75794152
+  creation_date: 2015
+  year:  2015
+  local_path: /files/d32e46291d9822d3583fe4ef38e14dee671347e2b8695abd1ea8b69d75794152.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Federal Highway Administration’s (fhwa) Office Of Innovative Program Delivery (oipd)
+  title: "Guidebook For Risk Assessment In Public Private Partnerships"
+  hash: 70223e2f616a92e6eb13e3b545268369c237e18b904a45cd3db83e049efca5d2
+  creation_date: 2013
+  year:  2013
+  local_path: /files/70223e2f616a92e6eb13e3b545268369c237e18b904a45cd3db83e049efca5d2.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Protiviti - Independant Risk Consulting
+  title: "Federal Highway Administration’s (fhwa) Office Of Innovative Program Delivery (oipd)"
+  hash: 1564a7b450fcde17cbe587e64739176e89cfdcdf52800cc301508160d7eeac37
+  creation_date:
+  year: "unknown"
+  local_path: /files/1564a7b450fcde17cbe587e64739176e89cfdcdf52800cc301508160d7eeac37.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Administrative Communications System U.s. Department Of Education
+  title: "Handbook For Information Technology Security Risk Assessment Procedures"
+  hash: b6665b2f6338f9b7db01aaed5032375301692632a6ae202b9000d65ff1cfbe74
+  creation_date: 2003
+  year:  2003
+  local_path: /files/b6665b2f6338f9b7db01aaed5032375301692632a6ae202b9000d65ff1cfbe74.pdf
+  type: [risk_management]
+
+
+- form: application/vnd.ms-excel
+  organization:
+  title: "Hit Security Risk Assessment Questionnaire V3.0"
+  hash: e1206f9136f72715ff6289e1badd877f3cec8c79213da80f567321a13f1ab559
+  creation_date:
+  year: "unknown"
+  local_path: /files/e1206f9136f72715ff6289e1badd877f3cec8c79213da80f567321a13f1ab559.xls
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: European Center For Not-for-profit Law, European Foundation Centre,and Human Security Collective
+  title: "HOW CAN NoN-pROFIT ORGaNISATIONS BE INVOLVED IN THE FiNANCIAL ACTION TASK FORCE EVALUATION PROCESS?"
+  hash: b95ffaff5e307dce2f0f7977293ea7a35feb3e73a7a85c54d244702ecaaee204
+  creation_date:
+  year: "unknown"
+  local_path: /files/b95ffaff5e307dce2f0f7977293ea7a35feb3e73a7a85c54d244702ecaaee204.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Association Of International Certified Professional Accountants.
+  title: "Illustrative Cybersecurity Risk Management Report"
+  hash: 55830ec127c088507a5a1d4c89f1612d3872230b54b442cf1ee6a99c2887230a
+  creation_date: 2017
+  year:  2017
+  local_path: /files/55830ec127c088507a5a1d4c89f1612d3872230b54b442cf1ee6a99c2887230a.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:
+  title: "Npo Domestic Review (non-profit Organization) Indonesia’s Report"
+  hash: dca4474c1193212e775e0647f4d96fb52f0255cd2a0c378761d889aa41bd32f7
+  creation_date: 2010
+  year:  2010
+  local_path: /files/dca4474c1193212e775e0647f4d96fb52f0255cd2a0c378761d889aa41bd32f7.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Praxiom Research Group Limited
+  title: "Iso Iec 27002 2005 (17799 2005) Information Security Audit Tool"
+  hash: 4e2b938f34f89b4ce18d29f0e29079656468036c8fe8404da7647b41cdc69520
+  creation_date: 2005
+  year:  2005
+  local_path: /files/4e2b938f34f89b4ce18d29f0e29079656468036c8fe8404da7647b41cdc69520.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Cardiff University
+  title: "Information Security Framework Programme Risk Methodology"
+  hash: bb4d05a48da575227c48bcc55a3f6d8433124ff57f50437fba3363e38d35ce83
+  creation_date: 2014
+  year:  2014
+  local_path: /files/bb4d05a48da575227c48bcc55a3f6d8433124ff57f50437fba3363e38d35ce83.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:
+  title: "Information Security Risk Analysis – A Matrix-based Approach"
+  hash: 4b8ad597e2625befafd642863b5cf3d820ae7f7228c344b4e0a0d71a88b79e7e
+  creation_date:
+  year: "unknown"
+  local_path: /files/4b8ad597e2625befafd642863b5cf3d820ae7f7228c344b4e0a0d71a88b79e7e.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Nasa
+  title: "Information System Security Assessment And Authorization Process Chapter 02"
+  hash: 9d6f7bd2b78045755587edfda5d6f406aa612c04d8db698155148e2debae1704
+  creation_date: 2015
+  year:  2015
+  local_path: /files/9d6f7bd2b78045755587edfda5d6f406aa612c04d8db698155148e2debae1704.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Institute For Risk Research University Of Waterloo
+  title: "Iso 31000 – Risk Management Management Standard Standard"
+  hash: 2800cff50832d532938d92f442f0087e734037841dd7b013519a1eee8e032afe
+  creation_date: 2008
+  year:  2008
+  local_path: /files/2800cff50832d532938d92f442f0087e734037841dd7b013519a1eee8e032afe.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Johnson & Johnson (j&j)
+  title: "Framework For Enterprise Risk Management"
+  hash: 95983bca60944279d7ed5375ea94bd521152dc5cf430b9f90f1c2beb8a4d1db4
+  creation_date: 2013
+  year:  2013
+  local_path: /files/95983bca60944279d7ed5375ea94bd521152dc5cf430b9f90f1c2beb8a4d1db4.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Bits
+  title: "Kalculator: Bits Key Risk Measurement Tool For Information Security Operational Risks"
+  hash: 96ea77c3dcdb4d08a92b7d78dde26433beda6d4b3e522cbd29280cc0025cdae4
+  creation_date: 2004
+  year:  2004
+  local_path: /files/96ea77c3dcdb4d08a92b7d78dde26433beda6d4b3e522cbd29280cc0025cdae4.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Kirkpatrick Price, Llc
+  title: "Risk Assessment Guide"
+  hash: 4f69921914c29cef3ccf3ba03e552adac0245bf0d68e6c34b7fd37685811e02c
+  creation_date: 2012
+  year:  2012
+  local_path: /files/4f69921914c29cef3ccf3ba03e552adac0245bf0d68e6c34b7fd37685811e02c.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: The Stationery Office
+  title: "Management Of Risk: Guidance For Practitioners And The International Standard On Risk Management, Iso 31000:2009"
+  hash: 15d1492bcab7f195046dafcd8bf7016712ffdec15290e531c27161cd52bf3ada
+  creation_date: 2013
+  year:  2013
+  local_path: /files/15d1492bcab7f195046dafcd8bf7016712ffdec15290e531c27161cd52bf3ada.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: International Development Advisory Services (idas Africa)
+  title: "Managing Risk In Global Health: Mapping The Way Forward"
+  hash: 6391872b856e9a3289c91043b70a9ebf915f323ec36b4f90c10ef7eee76ae24b
+  creation_date: 2014
+  year:  2014
+  local_path: /files/6391872b856e9a3289c91043b70a9ebf915f323ec36b4f90c10ef7eee76ae24b.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Oecd
+  title: "Managing Risks In Fragile And Transitional Contexts The Price Of Success?"
+  hash: f7e2d12bacb2786aebb84f2dd0c8f0de5c733788eb9e1cf242d135f44a4849f2
+  creation_date: 2011
+  year:  2011
+  local_path: /files/f7e2d12bacb2786aebb84f2dd0c8f0de5c733788eb9e1cf242d135f44a4849f2.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Office Of Industrial Relations Workplace Health And Safety Queensland
+  title: "Overview Of Work-related Stress"
+  hash: 3c591fd9b799b0a4873d83c4430fefb208e05e8517fc4858ff9e3e53d2d1af96
+  creation_date:
+  year: "unknown"
+  local_path: /files/3c591fd9b799b0a4873d83c4430fefb208e05e8517fc4858ff9e3e53d2d1af96.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Financial Action Task Force (fatf)
+  title: "Methodology For Assessing Money Laundering And Terrorist Financing Risks Affecting The Internal Market And Related To Cross-border Activities"
+  hash: d3b4520ac4e33ffa4b5d594a3bc1d7f1bc0a25ca9ae40f75c1e4d8a56903fc09
+  creation_date: 2015
+  year:  2015
+  local_path: /files/d3b4520ac4e33ffa4b5d594a3bc1d7f1bc0a25ca9ae40f75c1e4d8a56903fc09.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: "Cases: Cyberworld Awareness And Security Enhancement Services:"
+  title: "Monarc Optimised Risk Analysis Method"
+  hash: afbc1d5b4d6697578f36d1648c5abae304a75cd99cceaba70813ba359643a927
+  creation_date:
+  year: "unknown"
+  local_path: /files/afbc1d5b4d6697578f36d1648c5abae304a75cd99cceaba70813ba359643a927.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Ngo Risk Management Principles And Promising Practice
+  title: "Ngo Risk Management Principles And Promising Practice"
+  hash: cc818290565facf439d8d601d80ae25314d941811b6fee9935f54431d835eb4d
+  creation_date: 2016
+  year:  2016
+  local_path: /files/cc818290565facf439d8d601d80ae25314d941811b6fee9935f54431d835eb4d.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Interaction And Humanitarian Outcomes
+  title: "Ngos And Risk How International Humanitarian Actors Manage Uncertainty"
+  hash: 5e9b2c5fb98b7949c4feef11817137ffcfa84c41f38bb6aa7808fe365048c7f2
+  creation_date: 2016
+  year:  2016
+  local_path: /files/5e9b2c5fb98b7949c4feef11817137ffcfa84c41f38bb6aa7808fe365048c7f2.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Nist
+  title: "Guide For Conducting Risk Assessments"
+  hash: b107c23e5650d59e77764cbf150ab087b8fef094b00da7ba727abc800e625dac
+  creation_date: 2012
+  year:  2012
+  local_path: /files/b107c23e5650d59e77764cbf150ab087b8fef094b00da7ba727abc800e625dac.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Nist
+  title: "Risk Management Guide For Information Technology Systems"
+  hash: 6a3fae17cc31e310b4a3df7cc8f855f700a376c64af168720fc62aedddda704a
+  creation_date: 2001
+  year:  2001
+  local_path: /files/6a3fae17cc31e310b4a3df7cc8f855f700a376c64af168720fc62aedddda704a.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Nist
+  title: "Managing Information Security Risk Organization, Mission, And Information System View"
+  hash: 3ae9032cd0e8cc4b55dd8e70d94a8afccb67f8a456d1716db010a486a204706c
+  creation_date: 2011
+  year:  2011
+  local_path: /files/3ae9032cd0e8cc4b55dd8e70d94a8afccb67f8a456d1716db010a486a204706c.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Nist
+  title: "Building An Information Technology Security Awareness And Training Program"
+  hash: 0d551a252232bee5686b3a901446edf28c118956df251e9914c26547498a9070
+  creation_date: 2003
+  year:  2003
+  local_path: /files/0d551a252232bee5686b3a901446edf28c118956df251e9914c26547498a9070.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Civil Society Europe (cse), European Center For Not-for Profit Law (ecnl), European Foundation Centre (efc), And Human Security Collective (hsc),
+  title: "Assessment On Money Laundering And Terrorist Financing (snra) Following The Ec Consultation Meeting On 4 October 2016"
+  hash: b4b67cf7e8dd10cf7c54c89709a36ad82ca935c64175ca8b1bdba9874148c6e5
+  creation_date: 2016
+  year:  2016
+  local_path: /files/b4b67cf7e8dd10cf7c54c89709a36ad82ca935c64175ca8b1bdba9874148c6e5.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Workplace Health & Safety Qld, Department Of Justice And Attorney General
+  title: "A Risk Management Approach To Work-related Stress"
+  hash: 96ad26251a288ec856befff73b41504c1a311a59b1230e8faeff3b3fa8d66a4d
+  creation_date: 2014
+  year:  2014
+  local_path: /files/96ad26251a288ec856befff73b41504c1a311a59b1230e8faeff3b3fa8d66a4d.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Ocha Policy And Studies Series
+  title: "Saving Lives Today And Tomorrow Managing The Risk Of Humanitarian Crises"
+  hash: 58d0821620c51186bb041202052e62cf58d63ec9e799a12b2b054ac37d2fad76
+  creation_date: 2014
+  year:  2014
+  local_path: /files/58d0821620c51186bb041202052e62cf58d63ec9e799a12b2b054ac37d2fad76.PDF
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Ofac
+  title: "Ofac Risk Management Matrix"
+  hash: 943ef95ccb2752ea41ca0d0772b84777a863628afb06cf75f12e8394bef47e3b
+  creation_date: 2005
+  year:  2005
+  local_path: /files/943ef95ccb2752ea41ca0d0772b84777a863628afb06cf75f12e8394bef47e3b.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Cmu Networked Systems Survivability Program
+  title: "Operationally Critical Threat, Asset, And Vulnerability Evaluationsm (octavesm) Framework, Version 1.0"
+  hash: fac68766659ab35d3918afadc44e907f15345624578ec15297fbdd9f4ef9d792
+  creation_date: 1999
+  year:  1999
+  local_path: /files/fac68766659ab35d3918afadc44e907f15345624578ec15297fbdd9f4ef9d792.pdf
+  type: [threat_modeling,risk_management]
+
+
+- form: application/pdf
+  organization: World Economic Forum
+  title: "Partnering For Cyber Resilience Towards The Quantification Of Cyber Threats"
+  hash: 8e739176277ce80a34d766a5682357d2648c6b91852e3533a0771d286d1ca62e
+  creation_date: 2015
+  year:  2015
+  local_path: /files/8e739176277ce80a34d766a5682357d2648c6b91852e3533a0771d286d1ca62e.pdf
+  type: []
+
+
+- form: application/msword
+  organization: Gsa
+  title: "Performance Work Statement (pws) Template Gsa Enterprise E-mail And Collaboration Services"
+  hash: d050648426c672e9f09f96742817d83a117f225752cac33d06b8bebb26d267b5
+  creation_date: 2010
+  year:  2010
+  local_path: /files/d050648426c672e9f09f96742817d83a117f225752cac33d06b8bebb26d267b5.doc
+  type: []
+
+
+- form: application/pdf
+  organization: Local Advisory Committee (Lac) Organized By The Caucus Of Development Ngo Networks, Quezon City, Philippines
+  title: "Npo Sector Assessment: Philippine Report"
+  hash: 6607aa60e2a418e339e474f329a738a02ddc23823bb7b412256c2e8e7dac8dcc
+  creation_date: 2008
+  year:  2008
+  local_path: /files/6607aa60e2a418e339e474f329a738a02ddc23823bb7b412256c2e8e7dac8dcc.pdf
+  type: []
+
+
+- form: application/pdf
+  organization:
+  title: "Project Mangement Plan Examples"
+  hash: 8d38b609a1c16b957a41a90b27a5aa851b1a41fbe32c6d8dea8672ef7a3e95b2
+  creation_date:
+  year: "unknown"
+  local_path: /files/8d38b609a1c16b957a41a90b27a5aa851b1a41fbe32c6d8dea8672ef7a3e95b2.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Financial Action Task Force (fatf)
+  title: "Procedures For The Fatf Fourth Round Of Aml/cft Mutual Evaluations"
+  hash: 10ac7cb35f63458429633db55b2884cd761b27f3a6a0bb0420d73a008b23a785
+  creation_date: 2017
+  year:  2017
+  local_path: /files/10ac7cb35f63458429633db55b2884cd761b27f3a6a0bb0420d73a008b23a785.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Usaid
+  title: "Rapid Education And Risk Analysis"
+  hash: 9f7011492f43784ee458cd5146f7173e5e1f12082d51c5a8c41388028092d10f
+  creation_date: 2014
+  year:  2014
+  local_path: /files/9f7011492f43784ee458cd5146f7173e5e1f12082d51c5a8c41388028092d10f.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Protection Sector And Unhcr
+  title: "Rapid Protection Assessment Report"
+  hash: 9f899543c757cb48c6237257364c02fcdce2c95eb17abbde654807d9b1cc3ba1
+  creation_date: 2016
+  year:  2016
+  local_path: /files/9f899543c757cb48c6237257364c02fcdce2c95eb17abbde654807d9b1cc3ba1.pdf
+  type: []
+
+
+- form: text/html
+  organization:
+  title: "Realistic And Affordable quantitative Information Security risk Management Effective Risk Management For small/medium Businesses"
+  hash: 2948d91ab0b30f8a68b2243df0065c4448862d4b12763602d5912e90e1edc4d8
+  creation_date: 2013
+  year:  2013
+  local_path: /files/2948d91ab0b30f8a68b2243df0065c4448862d4b12763602d5912e90e1edc4d8.html
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:
+  title: "Realistic And Affordable Quantitative Information Security Risk Management Effective Risk Management For Small/medium Businesses"
+  hash: 9aa57e2b99bb9bd10903c236820aeb2c01e60d5932dd5777a8183941d1300c04
+  creation_date: 2013
+  year:  2013
+  local_path: /files/9aa57e2b99bb9bd10903c236820aeb2c01e60d5932dd5777a8183941d1300c04.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: International Federation Of Red Cross And Red Crescent Societies
+  title: "Contingency Planning Guide"
+  hash: db389aec14a32273a2c43ea3c842df5432660c2f66348f76fbd743b880ad5b71
+  creation_date: 2012
+  year:  2012
+  local_path: /files/db389aec14a32273a2c43ea3c842df5432660c2f66348f76fbd743b880ad5b71.pdf
+  type: [incident_management]
+
+
+- form: application/pdf
+  organization: Berghof Foundation For Peace Support
+  title: "Reflecting On Risk And Security Management A Learning Case Based On The Experience Of The Berghof Foundation For Conflict Studies In Sri Lanka"
+  hash: 16b4e49bbfcec22e2e74e20c649e46e75745b9c12718afe91ee4630c790a57cb
+  creation_date: 2008
+  year:  2008
+  local_path: /files/16b4e49bbfcec22e2e74e20c649e46e75745b9c12718afe91ee4630c790a57cb.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: The Government Information Security Management Board
+  title: "Requirements For Ict Contingency Planning"
+  hash: 38023390a3a7e51591a63651353a906e197bf5d45f2b1d49dd4d145768ef6509
+  creation_date: 2012
+  year:  2012
+  local_path: /files/38023390a3a7e51591a63651353a906e197bf5d45f2b1d49dd4d145768ef6509.pdf
+  type: [incident_management]
+
+
+- form: application/pdf
+  organization: Interaction And Humanitarian Outcomes
+  title: "Residual Risk Acceptance An Advocacy Guidance Note"
+  hash: c052a748b209a7620451a2575a25954320482add354d5b96367f80c3a75203e9
+  creation_date: 2016
+  year:  2016
+  local_path: /files/c052a748b209a7620451a2575a25954320482add354d5b96367f80c3a75203e9.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Easypol Food And Agriculture Organization Of The United Nations
+  title: "Risk Analysis And Contingency Planning In The Context Of Policy & Decision Making"
+  hash: 21363a6c3efed7242ca1dcf0e3747156725a56d6afd9614d4d02df01c7d483ee
+  creation_date: 2009
+  year:  2009
+  local_path: /files/21363a6c3efed7242ca1dcf0e3747156725a56d6afd9614d4d02df01c7d483ee.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:
+  title: "Risk Assessment Check List"
+  hash: 9229745046850be1711c69e4fafc971c23fe91eef1e5c74be309fcfb30ff6a00
+  creation_date:
+  year: "unknown"
+  local_path: /files/9229745046850be1711c69e4fafc971c23fe91eef1e5c74be309fcfb30ff6a00.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Committee Of Sponsoring Organizations Of The Treadway Commission
+  title: "RISK ASsessmeNT IN PRactICe"
+  hash: 6fa4a027f8f5a7f96b7324623ae27beb4197db6c79eb5f685559a540595d83a1
+  creation_date: 2012
+  year:  2012
+  local_path: /files/6fa4a027f8f5a7f96b7324623ae27beb4197db6c79eb5f685559a540595d83a1.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Task Force On Understanding, Prediction, Mitigation And Restoration Of Cascading Failures Of The Ieee Computing & Analytical Methods (cams) Subcommittee
+  title: "Risk Assessment Of Cascading Outages: Methodologies And Challenges"
+  hash: f61465181a73faeee015b3655f5133ca8e751792f28c1782aa42b35f17f62151
+  creation_date:
+  year: "unknown"
+  local_path: /files/f61465181a73faeee015b3655f5133ca8e751792f28c1782aa42b35f17f62151.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:
+  title: "Risk-based Confidentiality Requirements Specification For Outsourced It Systems"
+  hash: c968f250944d89ff4daf6b56e386e49cb7e89b1053d53715f3509d3cc8f8e561
+  creation_date:
+  year: "unknown"
+  local_path: /files/c968f250944d89ff4daf6b56e386e49cb7e89b1053d53715f3509d3cc8f8e561.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Overseas Development Institute
+  title: "Risk In Humanitarian Action: Towards A Common Approach?"
+  hash: a2551b419b80bb07b2733af8cffb546cdf9e4802d5c627614aaa17e3d908681b
+  creation_date: 2011
+  year:  2011
+  local_path: /files/a2551b419b80bb07b2733af8cffb546cdf9e4802d5c627614aaa17e3d908681b.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Iaaitc
+  title: "Risk Management And It Security For Micro And Small Businesses"
+  hash: 5f7700a172b060514bd40c2bdc630938079665cba438cd3f3717f8a3fe81ca44
+  creation_date:  2007
+  year:   2007
+  local_path: /files/5f7700a172b060514bd40c2bdc630938079665cba438cd3f3717f8a3fe81ca44.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Standards Australia/standards New Zealand
+  title: "Risk Management Guidelines Companion To As/nzs 4360:2004"
+  hash: 4d5b74198da6612634a0bd4504c811daa64fb3f198a9bfd41467f7e0f5465df9
+  creation_date: 2004
+  year:  2004
+  local_path: /files/4d5b74198da6612634a0bd4504c811daa64fb3f198a9bfd41467f7e0f5465df9.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Usaid
+  title: "Risk Management Internal Usaid Literature Review"
+  hash: e0bdb9de9973a5e0284c49d01a12ea192f2265579e2243b01d856abce3063761
+  creation_date: 2011
+  year:  2011
+  local_path: /files/e0bdb9de9973a5e0284c49d01a12ea192f2265579e2243b01d856abce3063761.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Office Of Management And Budget (omb)
+  title: "Updated Principles For Risk Analysis - Memorandum For The Heads Of Executive Departments And Agencies"
+  hash: cff91b9806ee49b7104a643748cc734549479438045c0146b6b87b3daa34c794
+  creation_date: 2007
+  year:  2007
+  local_path: /files/cff91b9806ee49b7104a643748cc734549479438045c0146b6b87b3daa34c794.pdf
+  type: [risk_management]
+
+
+- form: application/vnd.ms-excel
+  organization:
+  title: "Risk Register Template"
+  hash: 3b7d7c2b67cb8426e24106988b231c05d08dc79a3e276be776065d9b52d9a2b7
+  creation_date:
+  year: "unknown"
+  local_path: /files/3b7d7c2b67cb8426e24106988b231c05d08dc79a3e276be776065d9b52d9a2b7.xls
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:
+  title: "Risk Scenarios Non-profit Organisations"
+  hash: 73158112158635381ed71c9157ee5d57ad8ec4107d7a105fd88572c91d361a2d
+  creation_date: 2016
+  year:  2016
+  local_path: /files/73158112158635381ed71c9157ee5d57ad8ec4107d7a105fd88572c91d361a2d.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:
+  title: "Risk Univers - Snra For Money Laundering And Terrorist Financing (v 0.2) Draft"
+  hash: 9398a04a0acce9d6fdec2bfd5b3ac50d2643d09de413e4146b31a674753eb18d
+  creation_date:
+  year: "unknown"
+  local_path: /files/9398a04a0acce9d6fdec2bfd5b3ac50d2643d09de413e4146b31a674753eb18d.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: The Foresight Horizon Scanning Centre
+  title: "Scenario Planning"
+  hash: 80d3816eddd3490ac7f0e4ffc0169b288160bfaec8e93069ce187585b71fc347
+  creation_date: 2009
+  year:  2009
+  local_path: /files/80d3816eddd3490ac7f0e4ffc0169b288160bfaec8e93069ce187585b71fc347.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Interaction And Humanitarian Outcomes
+  title: "Securtiy Risk Management Ngo Approach Interaction Security Unit"
+  hash: 43576131b5f04f4523223f6659e0ded3e6b8f05ff937d3248ccdc09f56eb73d4
+  creation_date:
+  year: "unknown"
+  local_path: /files/43576131b5f04f4523223f6659e0ded3e6b8f05ff937d3248ccdc09f56eb73d4.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Homeland Security Systems Engineering And Development Institute
+  title: "Situating Anonymization Within A Privacy Risk Model"
+  hash: 15a46f3e10f5902123f62ce58feb34e06bc5f7dff2e0306ac02da56bc4b4cd1f
+  creation_date: 2012
+  year:  2012
+  local_path: /files/15a46f3e10f5902123f62ce58feb34e06bc5f7dff2e0306ac02da56bc4b4cd1f.pdf
+  type: [privacy]
+
+
+- form: application/pdf
+  organization: Mitre
+  title: "Risk Management"
+  hash: 176c4cd0830952ba0ec72ef27c2c1bdc2477ff458273ce6fe3cab018bfb3ad9d
+  creation_date: 2013
+  year:  2013
+  local_path: /files/176c4cd0830952ba0ec72ef27c2c1bdc2477ff458273ce6fe3cab018bfb3ad9d.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: International Federation Of Red Cross And Red Crescent Societies
+  title: "Stay Safe The International Federation’s Guide For Security Managers"
+  hash: 53f39ae363d1677cfe32b17f1aac528cfce9cc01a3fe32de0c37193554e9dd73
+  creation_date: 2011
+  year:  2011
+  local_path: /files/53f39ae363d1677cfe32b17f1aac528cfce9cc01a3fe32de0c37193554e9dd73.pdf
+  type: []
+
+
+- form: application/pdf
+  organization:
+  title: "Strategic Risk Assessment A First Step For Improving Risk Management And Governance."
+  hash: 7c3c59a5e125dc7fecfbd00c692f2ad940f5c2f366ae2429456b65454923ec5c
+  creation_date: 2009
+  year:  2009
+  local_path: /files/7c3c59a5e125dc7fecfbd00c692f2ad940f5c2f366ae2429456b65454923ec5c.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: International Monetary Fund
+  title: "Stress Testing Operational Risk"
+  hash: 9b7db52dc0171f7f78fbb8c41410f3434d379f46a29f0b9ec97b3f1b09f91cc2
+  creation_date: 2006
+  year:  2006
+  local_path: /files/9b7db52dc0171f7f78fbb8c41410f3434d379f46a29f0b9ec97b3f1b09f91cc2.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: The Mitre Corporation
+  title: "Structured Cyber Resiliency Analysis Methodology (scram)"
+  hash: d628c352c4bd814d633000243b1d17f095566762fff07dcce0bc44f1d1421813
+  creation_date: 2016
+  year:  2016
+  local_path: /files/d628c352c4bd814d633000243b1d17f095566762fff07dcce0bc44f1d1421813.pdf
+  type: []
+
+
+- form: application/msword
+  organization: Old Dominion University
+  title: "Template - Information Technology Risk Assessment"
+  hash: 138a40c0fe130c0414e664e14445b12c8f07b355a5eb996f6707e3dcbae87047
+  creation_date:
+  year: "unknown"
+  local_path: /files/138a40c0fe130c0414e664e14445b12c8f07b355a5eb996f6707e3dcbae87047.doc
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: European Asylum, Migration And Integration Fund (amif)
+  title: "Tact Risk Assessment Matrix"
+  hash: cd23e04a09d4f38ee77a9d8892c08850814fc4ddab09a5bee8ec60f0b6255c23
+  creation_date:
+  year: "unknown"
+  local_path: /files/cd23e04a09d4f38ee77a9d8892c08850814fc4ddab09a5bee8ec60f0b6255c23.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: European Union Agency For Network And Information Security
+  title: "The Cost Of Incidents Affecting Ciis Systematic Review Of Studies Concerning The Economic Impact Of Cyber-security Incidents On Critical Information Infrastructures (cii)"
+  hash: 82bdd4142cffd34c57d3bbd58bc9b4182ee74133116dbba3305af55977876a41
+  creation_date: 2016
+  year:  2016
+  local_path: /files/82bdd4142cffd34c57d3bbd58bc9b4182ee74133116dbba3305af55977876a41.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Aidspan
+  title: "The Global Fund’s Approach To Risk Management"
+  hash: 8c3621d1a3291b588fe26cbf91aebef4d02b79eeb95e7bf39f617d36b8252fd2
+  creation_date: 2015
+  year:  2015
+  local_path: /files/8c3621d1a3291b588fe26cbf91aebef4d02b79eeb95e7bf39f617d36b8252fd2.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Unchr
+  title: "The Heightened Risk Identification Tool, Version 2"
+  hash: 7ca885e5b1bf8724424b9b29aa3f47bf5d4ac5f436ce8c50dbde853725a68811
+  creation_date: 2010
+  year:  2010
+  local_path: /files/7ca885e5b1bf8724424b9b29aa3f47bf5d4ac5f436ce8c50dbde853725a68811.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Civil Society Europe (cse), European Center For Not-for Profit Law (ecnl), European Foundation Centre (efc), And Human Security Collective (hsc)
+  title: "Risk Assessment Scoping Paper The Risk Based Assessment Approach And Mutual Evaluations As The Cornerstone To Validating The Effectiveness Of Recommendation 8"
+  hash: d17a124b1659f01f82ef130c8be855867ea4a04ddc83828b6b360f4b9c119f08
+  creation_date:
+  year: "unknown"
+  local_path: /files/d17a124b1659f01f82ef130c8be855867ea4a04ddc83828b6b360f4b9c119f08.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: The Institute Of Internal Auditors.
+  title: "The Three Lines Of Defense In Effective Risk Management And Control"
+  hash: 1492f8a47a56fc89ff5eb3f9e3bf717c0adb216695f597e4868cdca1b9621b53
+  creation_date: 2013
+  year:  2013
+  local_path: /files/1492f8a47a56fc89ff5eb3f9e3bf717c0adb216695f597e4868cdca1b9621b53.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Kpmg Llp, A Canadian Limited Liability Partnership And A Member Firm Of The Kpmg Network Of Independent Member Firms Affiliated With Kpmg International Cooperative (“kpmg International”), A Swiss Entity.
+  title: "The Three Lines Of Defense Making The Transition To A Mature Risk Management Model"
+  hash: 762428614ffec2cdf9aeb7277c9ed9785711db6733ef6e032d9ce9101278442c
+  creation_date: 2016
+  year:  2016
+  local_path: /files/762428614ffec2cdf9aeb7277c9ed9785711db6733ef6e032d9ce9101278442c.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Deloitte
+  title: "The Value Killers Revisited A Risk Management Study"
+  hash: 098bdfc46e5c6fe8f4987605e74efae66de06942025a438a4e82e2eef15f3dc7
+  creation_date: 2014
+  year:  2014
+  local_path: /files/098bdfc46e5c6fe8f4987605e74efae66de06942025a438a4e82e2eef15f3dc7.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Homeland Security
+  title: "Threat And Hazard Identification And Risk Assessment Guide Comprehensive Preparedness Guide (cpg) 201"
+  hash: d11ef9941080e4aed33bde7d188d9251250d1183874f4f09d1fb5637d1512c2c
+  creation_date: 2013
+  year:  2013
+  local_path: /files/d11ef9941080e4aed33bde7d188d9251250d1183874f4f09d1fb5637d1512c2c.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Mitre
+  title: "Threat Assessment And Remediation Analysis (tara) Overview"
+  hash: 2b662d9a00e5f4580f1176965bad9944811016a3693ec1a99ff7493addc92ce5
+  creation_date: 2013
+  year:  2013
+  local_path: /files/2b662d9a00e5f4580f1176965bad9944811016a3693ec1a99ff7493addc92ce5.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Mitre
+  title: "Threat Assessment & Remediation Analysis (tara)"
+  hash: 5b86871356e1adab24d2ccd2d56b38fc08cceaa5b8a200d8a053cf5eaa484795
+  creation_date: 2011
+  year:  2011
+  local_path: /files/5b86871356e1adab24d2ccd2d56b38fc08cceaa5b8a200d8a053cf5eaa484795.pdf
+  type: []
+
+
+- form: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  organization:
+  title: "Template - Contingency Plan"
+  hash: 01df046e60845129b71828c8b2754dbf49e1fb13ec21d8898ed7f276edd45de5
+  creation_date:
+  year: "unknown"
+  local_path: /files/01df046e60845129b71828c8b2754dbf49e1fb13ec21d8898ed7f276edd45de5.docx
+  type: [incident_management]
+
+
+- form: application/pdf
+  organization: Global Facility For Disaster Reduction And Recovery
+  title: "Understanding Risk In An Evolving World"
+  hash: 06a459b84d89dfe772eec0954baa949b5cbf8c2a4e3ef38a1b13b1780cdda2d6
+  creation_date: 2014
+  year:  2014
+  local_path: /files/06a459b84d89dfe772eec0954baa949b5cbf8c2a4e3ef38a1b13b1780cdda2d6.pdf
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization:
+  title: "Understanding The Security Vendor Landscape Using The Cyber Defense Matrix"
+  hash: 00268e84a2324c0ca6695539546553c12c00c046b6207c56c29633a6440a0514
+  creation_date: 2016
+  year:  2016
+  local_path: /files/00268e84a2324c0ca6695539546553c12c00c046b6207c56c29633a6440a0514.pdf
+  type: []
+
+
+- form: application/pdf
+  organization:
+  title: "Understanding The Three Lines Of Defense"
+  hash: 3c4d65784aa17d478996560513c964dee8c499bfddc6e81ac8beeba607eb8ca7
+  creation_date:
+  year: "unknown"
+  local_path: /files/3c4d65784aa17d478996560513c964dee8c499bfddc6e81ac8beeba607eb8ca7.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Unicef
+  title: "Unicef Advocacy Toolkit"
+  hash: d5bebe799384ebee6f55cf1f536023f9412bd813dfa728fdb69599366a10198b
+  creation_date: 2010
+  year:  2010
+  local_path: /files/d5bebe799384ebee6f55cf1f536023f9412bd813dfa728fdb69599366a10198b.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Unicef
+  title: "Unicef Enterprise Risk Management"
+  hash: 00dfc5528964b5b852e3c0284d35421307ad1fc7d20c2b2015a5c9ea455cc782
+  creation_date: 2015
+  year:  2015
+  local_path: /files/00dfc5528964b5b852e3c0284d35421307ad1fc7d20c2b2015a5c9ea455cc782.pdf
+  type: [risk_management]
+
+
+- form: application/msword
+  organization: Unicef
+  title: "Unicef Risk Reference Guide"
+  hash: 97a36e2cf0873e989c250d9dd55d3ba2de2664e4e7860246dafaaf83017ddf37
+  creation_date: 2008
+  year:  2008
+  local_path: /files/97a36e2cf0873e989c250d9dd55d3ba2de2664e4e7860246dafaaf83017ddf37.doc
+  type: [risk_management]
+
+
+- form: application/pdf
+  organization: Mckinsey And Company
+  title: "Upgrading Your Risk Assessment For Uncertain Times"
+  hash: 70aa58b6b022dbe13c34410f99d8d047bcbb68d1ae4bce96fe2ca5e3e5aa4e81
+  creation_date: 2009
+  year:  2009
+  local_path: /files/70aa58b6b022dbe13c34410f99d8d047bcbb68d1ae4bce96fe2ca5e3e5aa4e81.pdf
+  type: [threat_intelligence]
+
+
+- form: application/pdf
+  organization: Usaid
+  title: "Usaid Trade Project Risk Management Framework For Information Technology Systems"
+  hash: 5fba07b2490493c1cd2d132e2d2794db4864164f3d55b5a879958a766a13140c
+  creation_date: 2014
+  year:  2014
+  local_path: /files/5fba07b2490493c1cd2d132e2d2794db4864164f3d55b5a879958a766a13140c.pdf
+  type: [threat_intelligence]
+
+
+- form: application/pdf
+  organization: Ofda/interaction Pvo Security Task Force
+  title: "Vulnerability Assessment Training Module For Ngos Operating In Conflict Zones And High-crime Areas"
+  hash: 55b14628dcb24f239208ca1491f5f486e03a70365cc09f26cce73d435a00d0a0
+  creation_date:
+  year: "unknown"
+  local_path: /files/55b14628dcb24f239208ca1491f5f486e03a70365cc09f26cce73d435a00d0a0.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: European Union
+  title: "What Are The Issues Relating To Digitalisation In Company Law?"
+  hash: 002f179fa67355bbec94c4f4aa4632b082638ecd425fa2c9ef894c58475eb49b
+  creation_date: 2016
+  year:  2016
+  local_path: /files/002f179fa67355bbec94c4f4aa4632b082638ecd425fa2c9ef894c58475eb49b.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Zengrc
+  title: "The Guide To Zengrc’s Compliance Content"
+  hash: 68f8ddf8ca77fbb21032de6bfc82957efce389a19355b32f3f9320756e3b7c43
+  creation_date:
+  year: "unknown"
+  local_path: /files/68f8ddf8ca77fbb21032de6bfc82957efce389a19355b32f3f9320756e3b7c43.pdf
+  type: []
+
+
+- form: application/pdf
+  organization: Norwegian Refugee Council (nrc)
+  title: "Risk Management Toolkit In Relation To Counterterrorism Measures"
+  description: |
+    Risk Management Toolkit in Relation to Counterterrorism Measures. Commissioned by NRC, the toolkit forms part of the work-plans of the IASC Task Team on Principled Humanitarian Action. This toolkit builds on the 2013 NRC/OCHA Study on the Impact of Donor Counterterrorism Measures on Principled Humanitarian Action, commissioned at the IASC’s request. The study found that donor counterterrorism measures can have a negative impact on humanitarian action such as restricting funding, stalling project implementation, and leading to an increased climate of self-censorship by humanitarian actors. The toolkit provides examples of practical steps that humanitarian organisations can take, and are already taking, to strengthen risk management in relation to counterterrorism measures through an approach underpinned by humanitarian principles. It focuses on five areas where NGOs and UN agencies may be able to strengthen organisational risk management procedures. These are: codes of conduct and counterterrorism policies; due diligence measures; human resource policies; anti-diversion policies; and monitoring and evaluation procedures. Negotiation and review of counterterrorism clauses in partnership agreements, a typical area of concern for humanitarian organisations, are also included. Primarily directed at decision-makers with operational and risk management responsibilities and policy makers, we hope this toolkit will be a timely and useful resource for colleagues in both the field and headquarters. The toolkit is an inter-agency effort and was developed in collaboration with IASC colleagues. Substantial contributions were made by NGOs, UN agencies, the International Red Cross and Red Crescent Movement and some governments. The toolkit benefitted significantly from inputs by members of its expert advisory group, including ACF, IRC, UNICEF, WFP, Harvard Law School Program on International Law and Armed Conflict, InterAction, CARE, OCHA and CRS. I would like to take this opportunity to again thank all those involved for their continued engagement and invaluable support throughout this process. Jan Egeland
+  hash: 7f44d863ae0a28f0800e28f0a5ccda2ae8183e0a8617b70ba156ba20f1e04871
+  creation_date: 2015
+  year:  2015
+  local_path: /files/7f44d863ae0a28f0800e28f0a5ccda2ae8183e0a8617b70ba156ba20f1e04871.pdf
+  type: [risk_management]
+  doc_url: "https://interagencystandingcommittee.org/file/8226/download?token=GYR5ARi1"
+  doc_archive_url: "https://web.archive.org/web/20180730122804/https://interagencystandingcommittee.org/file/8226/download?token=GYR5ARi1"
+  info_url: "https://interagencystandingcommittee.org/revitalizing-principled-humanitarian-action/news-public/risk-management-toolkit-relation"
+  info_url_archive: "https://web.archive.org/web/20180730122818/https://interagencystandingcommittee.org/revitalizing-principled-humanitarian-action/news-public/risk-management-toolkit-relation"

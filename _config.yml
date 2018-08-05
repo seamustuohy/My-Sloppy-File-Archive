@@ -1,0 +1,31 @@
+title: "Archive"
+description: "An archive for sharing random docs."
+sourcecode: "https://github.com/seamustuohy/elationfoundation.github.io"
+default_image: "http://seamustuohy.com/images/headshot_400px.JPG"
+
+permalink: blog/:year/:month/:day/:title
+exclude: ["Makefile", "README.md"]
+
+url: "seamustuohy.com"     # the base hostname & protocol for your site
+baseurl: ""                   # the subpath of your site, e.g. /blog
+excerpt_separator: <!--more-->
+
+# if you don't have any of social below, comment the line
+# facebook: myfacebook
+rss: feed.xml
+twitter: seamustuohy
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+linkedin: seamustuohy
+# youtube: myyoutube
+# spotify: myspotify
+github: seamustuohy
+medium: seamustuohy
+# vimeo: myvimeo
+email: hello@seamustuohy.com
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
