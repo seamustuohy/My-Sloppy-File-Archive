@@ -22,7 +22,7 @@ description: "Risk Management Archive."
 
   <li class="listing-item">
     <!--<time datetime="{{ ref.creation_date }}">{{ref.creation_date}}</time>-->
-    <a href="{{ ref.local_path }}" title="{{ ref.title }}">{{ ref.title }} ({{ ref.form | split: '/' | last }})</a>
+    <a href="{{ site.url }}{{ ref.local_path }}" title="{{ ref.title }}">{{ ref.title }} ({{ ref.form | split: '/' | last }})</a>
     - {{ref.organization}}
 
   </li>
